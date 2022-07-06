@@ -1,5 +1,4 @@
-# Data-Science-Projects
-This folder contains data science projects I developed in the past.
+
 <h1>Hi, I'm Pichaphop Sunthornjittanon (Top) <br/><a href="https://github.com/psunthorn13">Data Scientist & Analyst</a><a href="https://www.linkedin.com/in/pichaphop/"></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
