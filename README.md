@@ -9,7 +9,7 @@
 
 - <b>[Social Listening for Crypto Market (End-to-End Web App)](https://social-listening-for-crypto.herokuapp.com/)</b>
   
-- <b>[NLP project for Thai Language (End-to-End Web App)](https://thai-text-classification.herokuapp.com/)</b>
+- <b>NLP project for Thai Language (End-to-End Web App)</b>
 
 - <b>[Zer0greenhouse (End-to-End Web App)](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
