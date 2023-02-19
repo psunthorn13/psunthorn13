@@ -4,7 +4,11 @@
 
 
 <h2>👨‍💻 Data Science Projects:</h2>
+  
+- <b>[Explainable AI (End-to-End Web App)](https://explainable-ai.herokuapp.com/)</b>
 
+- <b>[Social Listening for Crypto Market (End-to-End Web App)](https://social-listening-for-crypto.herokuapp.com/)</b>
+  
 - <b>[NLP project for Thai Language (End-to-End Web App)](https://thai-text-classification.herokuapp.com/)</b>
 
 - <b>[Zer0greenhouse (End-to-End Web App)](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
