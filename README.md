@@ -5,14 +5,15 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
   
-<h3>👨‍💻 End to end projects:</h3>
-- <b>[Explainable AI (End-to-End Web App)](https://explainable-ai.herokuapp.com/)</b>
-
-- <b>[Social Listening for Crypto Market (End-to-End Web App)](https://social-listening-for-crypto.herokuapp.com/)</b>
+<h3> End-to-end Web App </h3>
   
-- <b>NLP project for Thai Language (End-to-End Web App)</b>
+- <b>[Explainable AI](https://explainable-ai.herokuapp.com/)</b>
 
-- <b>[Zer0greenhouse (End-to-End Web App)](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
+- <b>[Social Listening for Crypto Market](https://social-listening-for-crypto.herokuapp.com/)</b>
+  
+- <b>NLP project for Thai Language </b>
+
+- <b>[Zer0greenhouse](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
   
 - <b>[Data Wrangling Projects(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Data%20Wrangling%20Projects(Python))</b>
