@@ -9,7 +9,7 @@
   
 - <b>[Explainable AI](https://explainable-ai.herokuapp.com/)</b>
 
-- <b>[Social Listening for Crypto Market](https://social-listening-for-crypto.herokuapp.com/)</b>
+- <b>[Social Listening for Crypto Market](https://social-listening-for-cryptos.herokuapp.com/)</b>
   
 - <b>NLP project for Thai Language </b>
 
