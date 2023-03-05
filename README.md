@@ -19,6 +19,8 @@
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
   
 - <b>[Data Wrangling Projects(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Data%20Wrangling%20Projects(Python))</b>
+ 
+  <h3> Other data science projects </h3>
   - [Parsing TextFile of Cryptocurrency Tweets](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Data%20Wrangling%20Projects(Python)/Data_Cleansing.ipynb)
   - [Text Preprocessing](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Data%20Wrangling%20Projects(Python)/Text_Preprocessing.ipynb)
   - [Data Cleansing](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Data%20Wrangling%20Projects(Python)/Data_Cleansing.ipynb)  
