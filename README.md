@@ -17,6 +17,7 @@
 
 - <b>[Zer0greenhouse](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
+<h3> Other data science projects </h3>
   
 - <b>[Data Wrangling Projects(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Data%20Wrangling%20Projects(Python))</b>
  
@@ -25,7 +26,6 @@
   - [Data Cleansing](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Data%20Wrangling%20Projects(Python)/Data_Cleansing.ipynb)  
   - [Data Integration](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Data%20Wrangling%20Projects(Python)/Data_Integration(JSON%2C%2CXML%2CPDF%2CGTFS%2CWebScraping).ipynb)  
 
-<h3> Other data science projects </h3>  
   
 - <b>[Deep Learning(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Deep%20Learning(Python))</b>
   - [CNN and Image](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Deep%20Learning(Python)/CNN%20and%20Image.ipynb)
