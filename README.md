@@ -11,6 +11,8 @@
 
 - <b>[Social Listening for Crypto Market](https://social-listening-for-cryptos.herokuapp.com/)</b>
   
+- <b>[Sentiment Analysis on Federal Open Market Committee(FOMC) minutes](https://sentiment-analysis-on-fomc.herokuapp.com/)</b>
+  
 - <b>NLP project for Thai Language </b>
 
 - <b>[Zer0greenhouse](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
