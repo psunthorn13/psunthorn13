@@ -17,6 +17,8 @@
 
 - <b>[Zer0greenhouse](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
+  
+- <b>[Government Measures for COVID-19 (RShiny)](https://psunthorn13.shinyapps.io/COVID-Dashboard/)</b>
 <h3> Other data science projects </h3>
   
 - <b>[Data Wrangling Projects(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Data%20Wrangling%20Projects(Python))</b>
@@ -30,10 +32,9 @@
 - <b>[Deep Learning(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Deep%20Learning(Python))</b>
   - [CNN and Image](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Deep%20Learning(Python)/CNN%20and%20Image.ipynb)
   - [Deep Neural Network(DNN)](https://github.com/psunthorn13/Data-Science-Projects/blob/main/Deep%20Learning(Python)/Deep%20Neural%20Network(DNN).ipynb) 
-  - [Neural Embedding and Sequence](https://psunthorn13.shinyapps.io/COVID-Dashboard/)
-  
-- <b>[Government Measures for COVID-19 (RShiny)](https://psunthorn13.shinyapps.io/COVID-Dashboard/)</b>
+  - [Neural Embedding and Sequence](https://psunthorn13.shinyapps.io/COVID-Dashboard/)  
 
+ 
 - <b>[R projects](https://github.com/psunthorn13/Data-Science-Projects/tree/main/R%20projects)</b>
   - [Electric Rotor Temperature Prediction](https://github.com/psunthorn13/Data-Science-Projects/blob/main/R%20projects/Electric%20Rotor%20Temperature%20Prediction%20(R)/Electric%20Rotor%20Temperature%20Prediction.ipynb)
   - [Residential Energy Appliance Classification(R)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/R%20projects/Residential%20Energy%20Appliance%20Classification(R)) 
