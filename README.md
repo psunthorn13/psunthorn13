@@ -20,7 +20,7 @@
   
 - <b>NLP project for Thai Language </b>
 
-- <b>[Zer0greenhouse]https://github.com/psunthorn13/Data-Science-Projects/blob/main/DS%20Presentation.pdf)</b>
+- <b>[Zer0greenhouse](https://github.com/psunthorn13/Data-Science-Projects/blob/main/DS%20Presentation.pdf)</b>
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
 
   
