@@ -38,6 +38,12 @@
 
 
 - <b>[Government Measures for COVID-19 (RShiny)](https://psunthorn13.shinyapps.io/COVID-Dashboard/)</b>
+  - Developed interactive dashboard by using Rshiny (R package that uses to build interactive web apps) along with Plotly (open source for data visualisation library).
+
+  - Performed data collection and wrangling by scraping the website, downloading data from different sources and using scripts to automate the data cleansing process.
+
+  - Provided analysis and exciting insight about worldwide COVID-19 measures and how best practice countries handled the situation.
+  
 <h3> Other data science projects </h3>
   
 - <b>[Data Wrangling Projects(Python)](https://github.com/psunthorn13/Data-Science-Projects/tree/main/Data%20Wrangling%20Projects(Python))</b>
