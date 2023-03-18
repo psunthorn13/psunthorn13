@@ -9,10 +9,14 @@
   
 - <b>[Explainable AI](https://explainable-ai.herokuapp.com/)</b>
   - Developed an interactive tool that allows users to upload CSV files and select target variables to help them utilise the predictive power of machine learning with explainable ability.
-  - Handled the data dynamically on  the website before putting it into the model
-  - Built a tree-based machine learning model with a model performance report without tuning to give a sense of how the baseline model performs and which features are essential to the model
+  
+  - Handled the data dynamically on  the website before putting it into the model.
+  
+  - Built a tree-based machine learning model with a model performance report without tuning to give a sense of how the baseline model performs and which features are essential to the model.
+  
   - Used SHAP with visualisation to see how each feature impact to the model.
-  - Deployed this website through the cloud (Heroku)
+  
+  - Deployed this website through the cloud (Heroku).
 
 - <b>[Social Listening for Crypto Market](https://social-listening-for-cryptos.herokuapp.com/)</b>
   
