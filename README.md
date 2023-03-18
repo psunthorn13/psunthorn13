@@ -21,7 +21,16 @@
 - <b>NLP project for Thai Language </b>
 
 - <b>[Zer0greenhouse](https://github.com/psunthorn13/Data-Science-Projects/blob/main/DS%20Presentation.pdf)</b>
-  - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
+  - Developed a website that provides innovative features to help people in the City of Melbourne reduce greenhouse using an agile approach with 3 iterations. (Won a prize as an Expo Winner).
+
+- Utilised Python to automate data collection and wrangling by connecting APIs from several sources (more than 7 different open sources), cleansing structured and unstructured data, and using the ETL process to interact with database and website.
+
+- Deployed a deep learning image classification model (built from 20K images with 11 classes) to the website that allows users to input food images and returns CO2 emission analysis along with suggestions about reducing CO2 from food consumption. (Green Food)
+
+- Built an emission map that helps users plan their journey with the smallest amount of emission using Mapbox APIs and open data about emission by car model. (Green Transport Map)
+
+
+  - This is part of the features in final project called [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
 
   
 - <b>[Government Measures for COVID-19 (RShiny)](https://psunthorn13.shinyapps.io/COVID-Dashboard/)</b>
