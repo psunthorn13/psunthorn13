@@ -20,9 +20,9 @@
   
 - <b>NLP project for Thai Language </b>
 
-- <b>[Zer0greenhouse](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)</b>
+- <b>[Zer0greenhouse]https://github.com/psunthorn13/Data-Science-Projects/blob/main/DS%20Presentation.pdf)</b>
   - [Green Transport Map](https://6nm4i6wdvuc57bgh.anvil.app/P55UHAAQQIYESFP7Z5GAFCJ2)
-  - [Green Food](https://nlon24vqu2twmwgo.anvil.app/Z5TZEMDYFTHS53JLUXFUZSIW)
+
   
 - <b>[Government Measures for COVID-19 (RShiny)](https://psunthorn13.shinyapps.io/COVID-Dashboard/)</b>
 <h3> Other data science projects </h3>
