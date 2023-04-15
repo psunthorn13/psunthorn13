@@ -19,6 +19,11 @@
   - Deployed this website through the cloud (Heroku).
 
 - <b>[Social Listening for Crypto Market](https://social-listening-for-cryptos.herokuapp.com/)</b>
+  - Developed a tool that helps investors analyse online cryptocurrency conversations in real-time.
+  
+  - Used machine learning to analyse crypto sentiment.
+  
+  - Implemented end-to-end machine learning by collecting data from Twitter API in real-time,  processing unstructured text data, using the model for sentimental analysis, visualising through the interactive web app and deploying to the cloud.
   
 - <b>[Sentiment Analysis on Federal Open Market Committee(FOMC) minutes](https://sentiment-analysis-on-fomc.herokuapp.com/)</b>
   
