@@ -28,7 +28,9 @@
   
 - <b>[Sentiment Analysis on Federal Open Market Committee(FOMC) minutes](https://sentiment-analysis-on-fomc.herokuapp.com/)</b>
   
-- <b>NLP project for Thai Language </b>
+  - Developed a tool that analysed updated Federal Open Market Committee(FOMC) minutes from US Federal Reserve meetings, which discussed economic issues such as inflation, unemployment and economic growth. 
+
+  - Implemented end-to-end machine learning application by collecting data from official FED website scraping in real-time,  processing unstructured text data, using the model for sentimental analysis, visualising through the interactive web app and deploying to the cloud.
 
 - <b>[Zer0greenhouse](https://github.com/psunthorn13/Data-Science-Projects/blob/main/DS%20Presentation.pdf)</b>
   - Developed a website that provides innovative features to help people in the City of Melbourne reduce greenhouse using an agile approach with 3 iterations. (Won a prize as an Expo Winner).
