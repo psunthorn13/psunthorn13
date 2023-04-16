@@ -14,14 +14,14 @@
   
   - Built a tree-based machine learning model with a model performance report without tuning to give a sense of how the baseline model performs and which features are essential to the model.
   
-  - Used SHAP with visualisation to see how each feature impact to the model.
+  - Used SHAP with visualisation to see how each feature impacts to the model.
   
   - Deployed this website through the cloud (Heroku).
 
 - <b>[Social Listening for Crypto Market](https://social-listening-for-cryptos.herokuapp.com/)</b>
   - Developed a tool that helps investors analyse online cryptocurrency conversations in real-time.
   
-  - Used machine learning to analyse crypto sentiment.
+  - Used natural language processing(NLP) and machine learning to analyse crypto sentiment.
   
   - Implemented end-to-end machine learning application by collecting data from Twitter API in real-time,  processing unstructured text data, using the model for sentimental analysis, visualising through the interactive web app and deploying to the cloud.
 
