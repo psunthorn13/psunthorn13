@@ -6,6 +6,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
   
 <h3> End-to-end Web App </h3>
+
 - <b>[MenuAI Project](https://menuai-ed74390db92c.herokuapp.com/)</b>
   - Developed an AI-powered app offering menu image extraction, custom dish creation, and food photo analysis for an enhanced food experience.
   
