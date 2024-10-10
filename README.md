@@ -14,6 +14,19 @@
     
   - Implemented Docker for containerisation and utilised GitHub Actions to establish a CI/CD pipeline for seamless deployment and production readiness.
   
+- <b>[GovAI Writer](https://govaiwriter-cf079e86160c.herokuapp.com/)</b>
+  - Developed during a government hackathon by a team of four in just two days, this AI-powered content assistant streamlines public communication.
+  
+  - Utilised Retrieval-Augmented Generation (RAG) for AI-driven content generation, ensuring accurate and goal-aligned outputs from input documents.
+    
+  - Implemented large language models (LLMs) for content editing, identifying mistakes and providing correction suggestions based on the Australia Style Manual.
+    
+  - Leveraged LLMs to translate content into multiple languages, making it accessible to culturally and linguistically diverse (CALD) communities.
+    
+  - Integrated text-to-speech models to convert written content into speech, improving accessibility.
+    
+  - Productionised the solution using Docker for seamless deployment.
+    
 - <b>[Explainable AI](https://explainable-ai.herokuapp.com/)</b>
   - Developed an interactive tool that allows users to upload CSV files and select target variables to help them utilise the predictive power of machine learning with explainable ability.
   
