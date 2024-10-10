@@ -6,6 +6,12 @@
 <h2>👨‍💻 Data Science Projects:</h2>
   
 <h3> End-to-end Web App </h3>
+- <b>MenuAI Project(https://menuai-ed74390db92c.herokuapp.com/)</b>
+  - Developed an AI-powered app offering menu image extraction, custom dish creation, and food photo analysis for an enhanced food experience.
+  
+  - Utilised computer vision, generative AI, and large language models (LLM) to extract information from images, including OCR for menu text extraction.
+    
+  - Implemented Docker for containerisation and utilised GitHub Actions to establish a CI/CD pipeline for seamless deployment and production readiness.
   
 - <b>[Explainable AI](https://explainable-ai.herokuapp.com/)</b>
   - Developed an interactive tool that allows users to upload CSV files and select target variables to help them utilise the predictive power of machine learning with explainable ability.
